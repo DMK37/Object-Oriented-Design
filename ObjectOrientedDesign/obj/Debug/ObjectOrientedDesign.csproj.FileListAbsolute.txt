@@ -1,0 +1,6 @@
+/Users/dima/RiderProjects/ObjectOrientedDesign/ObjectOrientedDesign/bin/Debug/ObjectOrientedDesign.exe
+/Users/dima/RiderProjects/ObjectOrientedDesign/ObjectOrientedDesign/bin/Debug/ObjectOrientedDesign.pdb
+/Users/dima/RiderProjects/ObjectOrientedDesign/ObjectOrientedDesign/obj/Debug/ObjectOrientedDesign.csproj.AssemblyReference.cache
+/Users/dima/RiderProjects/ObjectOrientedDesign/ObjectOrientedDesign/obj/Debug/ObjectOrientedDesign.csproj.CoreCompileInputs.cache
+/Users/dima/RiderProjects/ObjectOrientedDesign/ObjectOrientedDesign/obj/Debug/ObjectOrientedDesign.exe
+/Users/dima/RiderProjects/ObjectOrientedDesign/ObjectOrientedDesign/obj/Debug/ObjectOrientedDesign.pdb

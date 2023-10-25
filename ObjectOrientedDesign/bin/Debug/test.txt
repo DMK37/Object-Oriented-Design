@@ -1,0 +1,2 @@
+delete Author Awards=0 
+list Author
